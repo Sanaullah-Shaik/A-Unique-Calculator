@@ -29,7 +29,7 @@ This project performs basic arithmetic calculations with a clean user interface 
 ## 📂 Project Structure
 
 ```bash
-📁 Calculator-Project
+📁 A Unique Calculator
 │── cal.html      # Main HTML structure
 │── cal.css       # Styling file
 │── cal.js        # Calculator logic
